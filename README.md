@@ -37,6 +37,3 @@ This is a **Tic-Tac-Toe game** implemented in Python using Pygame for the GUI an
 
 💡 **Contributions are welcome!** If you have ideas to improve the game, feel free to fork and submit a pull request.  
 
----
-
-Let me know if you need any modifications! 🚀🎮
